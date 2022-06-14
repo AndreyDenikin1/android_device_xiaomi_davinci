@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="popupcamera_effects_entries">
+        <item>@string/action_none</item>
+        <item>@string/popup_sound_muqin</item>
+        <item>@string/popup_sound_yingyan</item>
+        <item>@string/popup_sound_mofa</item>
+        <item>@string/popup_sound_jijia</item>
+        <item>@string/popup_sound_chilun</item>
+        <item>@string/popup_sound_cangmen</item>
+        <item>@string/popup_sound_imperial_march</item>
+        <item>@string/popup_sound_lightsaber</item>
+        <item>@string/popup_sound_throne_room</item>
+	    <item>@string/popup_jojo</item>
+	    <item>@string/popup_super_mario</item>
+        <item>@string/popup_anime_moan</item>	
+    </string-array>
+
+    <string-array name="popupcamera_effects_names" translatable="false">
+        <item>popup_muqin_up.ogg</item>
+        <item>popup_muqin_down.ogg</item>
+        <item>popup_yingyan_up.ogg</item>
+        <item>popup_yingyan_down.ogg</item>
+        <item>popup_mofa_up.ogg</item>
+        <item>popup_mofa_down.ogg</item>
+        <item>popup_jijia_up.ogg</item>
+        <item>popup_jijia_down.ogg</item>
+        <item>popup_chilun_up.ogg</item>
+        <item>popup_chilun_down.ogg</item>
+        <item>popup_cangmen_up.ogg</item>
+        <item>popup_cangmen_down.ogg</item>
+        <item>popup_imperial_march_up.ogg</item>
+        <item>popup_imperial_march_down.ogg</item>
+        <item>popup_lightsaber_up.ogg</item>
+        <item>popup_lightsaber_down.ogg</item>
+        <item>popup_throne_room_up.ogg</item>
+        <item>popup_throne_room_down.ogg</item>
+	    <item>popup_jojo_up.ogg</item>
+	    <item>popup_jojo_down.ogg</item>
+        <item>popup_super_mario_up.ogg</item>
+        <item>popup_super_mario_down.ogg</item>
+        <item>popup_anime_moan_up.ogg</item>
+        <item>popup_anime_moan_down.ogg</item>		
+    </string-array>
+
+    <string-array name="popupcamera_effects_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+	    <item>20</item>
+        <item>22</item>
+    </string-array>
+</resources>
