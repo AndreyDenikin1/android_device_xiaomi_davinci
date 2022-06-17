@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="type_clock_header">
+        <item quantity="other">"&lt;annotation name=color>Сейчас&lt;/annotation>
+^1
+^2"</item>
+        <item quantity="one">"&lt;annotation name=color>Сейчас&lt;/annotation>
+^1
+^2"</item>
+        <item quantity="few">"&lt;annotation name=color>Сейчас&lt;/annotation>
+^1
+^2"</item>
+    </plurals>
+</resources>

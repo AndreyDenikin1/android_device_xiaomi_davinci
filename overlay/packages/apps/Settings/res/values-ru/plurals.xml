@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="applock_summary">
+        <item quantity="other">%d приложений заблокировано</item>
+        <item quantity="one">1 приложение заблокировано</item>
+        <item quantity="few">%d приложения заблокировано</item>
+        <item quantity="many">%d приложений заблокировано</item>
+    </plurals>
+</resources>
