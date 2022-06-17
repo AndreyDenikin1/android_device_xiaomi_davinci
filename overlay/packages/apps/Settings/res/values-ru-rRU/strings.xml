@@ -14218,4 +14218,8 @@ Aggressive Standby - это функция, которая полностью о
     <string name="powermenu_assist">Ассистент</string>
     <string name="powermenu_bugreport">Сообщение об ошибке</string>
     <string name="powermenu_voice_assist">Голосовой помощник</string>
+    <!-- About phone screen, status item label  [CHAR LIMIT=40] -->
+    <string name="about_device_info">RiceDroid устройство</string>
+    <!-- About phone screen, status item label  [CHAR LIMIT=60] -->
+    <string name="security_patch">Обновление безопасности Android</string>
 </resources>

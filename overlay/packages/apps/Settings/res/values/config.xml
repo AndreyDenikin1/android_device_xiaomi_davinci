@@ -15,7 +15,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Maintainer info -->
-    <string name="config_maintainer_name">Ahmed Fouad</string>
-    <string name="config_maintainer_link">https://t.me/AMWolfstein</string>
-
+    <string name="config_maintainer_name">AndreyDenikin1</string>
+    <string name="config_maintainer_link">https://t.me/AndreyDenikin1</string>
+    <!-- Screen off FOD -->
+    <bool name="config_supportScreenOffFod">true</bool>
 </resources> 
