@@ -19,4 +19,5 @@
     <string name="config_maintainer_link">https://t.me/AndreyDenikin1</string>
     <!-- Screen off FOD -->
     <bool name="config_supportScreenOffFod">true</bool>
+
 </resources> 
