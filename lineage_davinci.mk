@@ -14,7 +14,6 @@ $(call inherit-product, device/xiaomi/davinci/device.mk)
 # Inherit some common Nameless stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 $(call inherit-product-if-exists, vendor/gapps/gms_mini.mk)
-$(call inherit-product-if-exists, vendor/apps/GoogleCamera/config.mk)
 
 PRODUCT_NAME := lineage_davinci
 PRODUCT_DEVICE := davinci
