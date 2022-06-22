@@ -341,3 +341,5 @@ vendor/firmware/goodix_gt9886_limit_f10_second.tporder
 
 # WLAN
 -vendor/bin/cnss-daemon
+
+etc/sysconfig/whitelist_com.android.omadm.service.xml

@@ -13,7 +13,7 @@ $(call inherit-product, device/xiaomi/davinci/device.mk)
 
 # Inherit some common Nameless stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
-$(call inherit-product-if-exists, vendor/gapps/gms_mini.mk)
+#$(call inherit-product-if-exists, vendor/gapps/gms_mini.mk)
 
 PRODUCT_NAME := lineage_davinci
 PRODUCT_DEVICE := davinci
@@ -28,7 +28,7 @@ CUSTOM_BUILD_TYPE := Unofficial
 WITH_GAPPS := true
 TARGET_GAPPS_ARCH := arm64
 TARGET_SUPPORTS_QUICK_TAP := true
-TARGET_USES_BLUR := true
+TARGET_ENABLE_BLUR := true
 USE_PIXEL_CHARGING := true
 TARGET_HAS_UDFPS := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
