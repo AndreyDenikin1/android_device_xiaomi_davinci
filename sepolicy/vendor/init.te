@@ -1,2 +1,0 @@
-# Allow init to wrtie to sysfs_battery_supply
-allow init vendor_sysfs_battery_supply:file { setattr };

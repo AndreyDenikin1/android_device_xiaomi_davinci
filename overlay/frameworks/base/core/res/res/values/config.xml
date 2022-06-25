@@ -145,6 +145,9 @@
     <!-- Is the notification LED intrusive? Used to decide if there should be a disable option -->
     <bool name="config_intrusiveNotificationLed">true</bool>
 
+    <!-- Whether to use light sensor to evaluate pocket state -->
+    <bool name="config_pocketUseLightSensor">false</bool>
+
     <!-- Vibrator pattern for feedback about a long screen/key press -->
     <integer-array name="config_longPressVibePattern">
         <item>0</item>
@@ -206,12 +209,6 @@
     <!-- How long it takes for the HW to start illuminating after the illumination is requested. -->
     <integer name="config_udfps_illumination_transition_ms">0</integer>
 
-      <!-- Does the battery LED support multiple colors?
-          Used to decide if the user can change the colors -->
-    <bool name="config_multiColorBatteryLed">false</bool>
-
-    <bool name="config_pocketUseLightSensor">false</bool>
-
     <!-- Night display color temperature calibration -->
     <string-array name="config_nightDisplayColorTemperatureCoefficients">
         <!-- R a-coefficient --> <item>0.0</item>
@@ -224,7 +221,6 @@
         <!-- B b-coefficient --> <item>0.000207598323269139</item>
         <!-- B y-intercept --> <item>-0.349361641294833436</item>
     </string-array>
-
     <!-- Smart charging -->
     <bool name="config_smartChargingAvailable">true</bool>
     <string name="config_SmartChargingSysfsNode" translatable="false">/sys/class/power_supply/battery/input_suspend</string>

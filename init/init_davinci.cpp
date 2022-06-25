@@ -87,16 +87,16 @@ void vendor_load_properties() {
     if (region == "GLOBAL") {
         model = "Mi 9T";
         device = "davinci";
-        description = "davinci-user 11 RKQ1.200826.002 V12.1.2.0.RFJMIXM release-keys";
+        description = "davinci-user 11 RKQ1.200826.002 V12.1.4.0.RFJMIXM release-keys";
         mod_device = "davinci_global";
     } else if (region == "CN") {
         model = "Redmi K20";
         device = "davinci";
-        description = "davinci-user 11 RKQ1.200826.002 V12.1.1.0.RFJCNXM release-keys";
+        description = "davinci-user 11 RKQ1.200826.002 V12.5.1.0.RFJCNXM release-keys";
     } else if (region == "INDIA") {
         model = "Redmi K20";
         device = "davinciin";
-        description = "davinciin-user 11 RKQ1.200826.002 V12.1.2.0.RFJINXM release-keys";
+        description = "davinciin-user 11 RKQ1.200826.002 V12.1.4.0.RFJINXM release-keys";
         mod_device = "davinciin_in_global";
     }
 
