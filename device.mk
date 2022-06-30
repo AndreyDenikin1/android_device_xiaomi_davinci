@@ -109,5 +109,9 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_PACKAGES += \
     DavinciWifiOverlay
 
+# Boot animation
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/prebuilts/bootanimation.zip:product/media/bootanimation.zip
+
 # Call the proprietary setup
 $(call inherit-product, vendor/xiaomi/davinci/davinci-vendor.mk)
