@@ -39,3 +39,9 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 RICE_MAINTAINER := AndreyDenikin1
 RICE_OFFICIAL := false
 
+# Fingerprint
+BUILD_FINGERPRINT := "google/raven/raven:12/SQ3A.220605.009.B1/8650216:user/release-keys"
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    PRIVATE_BUILD_DESC="raven-user 12 SQ3A.220605.009.B1 8650216 release-keys"
+
