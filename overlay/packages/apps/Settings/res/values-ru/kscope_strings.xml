@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Laboratory -->
+    <string name="laboratory_settings_preference_title">Лаборатория RiceDroid</string>
+     <string name="laboratory_settings_footer"> 1. В RiceDroid Lab вы можете опробовать экспериментальные функции.\n \n 2. Функции в RiceDroid Lab время от времени обновляются. Некоторые функции будут сохранены и перенесены во фрагмент turo turo после того, как они будут признаны стабильными, а другие могут быть отменены. \n \n 3. Выпуск новых функций в RiceDroid Lab находится на стадии бета-тестирования. На этом этапе могут быть некоторые ошибки, поэтому используйте их с осторожностью и осмотрительностью.</string>
+     <string name="laboratory_settings_warning_title">Лаборатория RiceDroid&#58; Внимание!</string>
+     <string name="laboratory_settings_warning_message">Выпуск новых функций в RiceDroid Lab находится на этапе бета-тестирования. На этом этапе могут быть некоторые ошибки, поэтому используйте их с осторожностью и осмотрительностью.</string>
+
+    <!-- Laboratory - Application downgrade -->
+    <string name="laboratory_app_downgrade_title">Разрешить понижение версии приложения</string>
+     <string name="laboratory_app_downgrade_summary">Это позволяет понизить версию приложений. Обратите внимание, что это может привести к сбоям и повреждению данных.</string>
+
+    <!-- Laboratory - Ignore window secure -->
+    <string name="laboratory_ignore_window_secure_title">Игнорировать флаги безопасности окна</string>
+    <string name="laboratory_ignore_window_secure_summary">Это снимает ограничения на снимки экрана и записи экрана для всех приложений. Обычно специальные приложения заменяются черными областями в записях. В некоторых случаях это может быть удобно, но может привести к утечке конфиденциальной информации. После изменения этого переключателя вам может потребоваться перезапустить приложения, чтобы изменения вступили в силу.</string>
+
+    <!-- Laboratory - Skiagl -->
+    <string name="laboratory_skiavk_title">Использовать конвейер skia для рендеринга hwui</string>
+     <string name="laboratory_skiavk_summary">Это может улучшить визуализацию графики, но может вызвать графические сбои из-за совместимости драйверов. (Для вступления в силу требуется перезагрузка)</string>
+
+    <!-- Reset auto brightness adjustment -->
+    <string name="reset_auto_brightness_adjustment_title">Сбросить настройки</string>
+     <string name="reset_auto_brightness_adjustment_summary">Позвольте системе забыть о ваших предпочтениях яркости и сбросить их до значений по умолчанию</string>
+     <string name="reset_auto_brightness_adjustment_done">Настройки автоматической яркости сброшены</string>
+
+</resources>

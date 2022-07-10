@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2021-2022 RiceDroid
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+     http://www.apache.org/licenses/LICENSE-2.0
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- riceDroid versioning -->
+    <string name="rice_version_title">RiceDroid Версия</string>
+    <string name="rice_device_title">Устройство</string>
+    <string name="rice_build_version_title">Версия сборки<string>
+        
+    <string name="wellbeing_title">Google Благополучие</string>
+    <string name="gesture_illustration_description">Управляйте своим устройством с легкостью.</string>
+    <string name="connected_setting_description">Управляйте соединениями вашего устройства.</string>
+    <string name="accessibility_illustration_description">Простота доступа к функциям для всех.</string>
+    <string name="account_illustration_description">Управляйте своими паролями и учетными записями пользователей.</string>
+     <string name="display_illustration_description">Настройте параметры отображения, такие как яркость, цвета и т. д.</string>
+     <string name="wifi_illustration_description">Управление сетевыми подключениями, провайдерами DNS, точками доступа и т. д.</string>
+     <string name="sec_illustration_description">Защитите и защитите свое устройство.</string>
+     <string name="sound_illustration_description">Настройте рингтоны устройства, громкость и звуки пользовательского интерфейса.</string>
+     <string name="privacy_illustration_description">Управление доступом/информацией к конфиденциальности для вашего устройства.</string>
+    <string name="system_illustration_description">Настройте язык системы, дату, время, жесты и многое другое.</string>
+     <string name="apps_illustration_description">Управление установленными приложениями, которые являются приложениями по умолчанию, проверка приложений с особым доступом, включение или отключение приложений и т. д. </string>
+   <string name="battery_illustration_description">Контролируйте состояние батареи, ее использование и оптимизируйте использование батареи.</string>
+     <string name="connectivity_category_title">Связь</string>
+    
+    <string name="navbar_gesture_custom">Настройка жестов навигации</string>
+     <string name="usercard_summary">Сертифицированный пользователь RiceDroid</string>
+    
+     <!-- About page -->
+    <string name="battery">Батарея</string>
+     <string name="display">Дисплей</string>
+     <string name="storage">Хранилище</string>
+     <string name="chipset">Процессор</string>
+
+    <!-- About phone cards -->
+    <string name="about_device_nearby">Название устройства может быть видно находящимся поблизости устройствам.</string>
+     <string name="about_device_version_type_gapps">Пиксели</string>
+     <string name="about_device_version_type_vanilla">Ваниль</string>
+     <string name="version">Версия для риса</string>
+     <string name="edit">Изменить</string>
+     <string name="device_name">Имя устройства</string>
+     <string name="about_us_info_category_title">О нас</string>
+     <string name="rice_revision">Редакция RiceDroid</string>
+    
+    <!-- Arcane Idle Manager -->
+    <string name="arcane_idle_manager_title">Менеджер бездействия RiceDroid</string>
+     <string name="arcane_idle_manager_summary">Остановить все несущественные фоновые процессы, когда устройство находится в режиме ожидания</string>
+
+    <!-- Doze on charge -->
+    <string name="doze_on_charge_title">Всегда включено при зарядке</string>
+     <string name="doze_on_charge_summary">Все время показывать экран дремоты при зарядке</string>
+
+   <!-- Doze on double tap -->
+    <string name="double_tap_title">Двойное нажатие</string>
+    <string name="doze_double_tap_title">Нажмите дважды, чтобы проверить телефон</string>
+    <string name="doze_double_tap_summary">Импульсные уведомления двойным касанием</string>
+    
+    <string name="dashboard_morning1">Доброе утро!</string>
+    <string name="dashboard_morning2">Солнце взошло!</string>
+    <string name="dashboard_morning3">Хорошее утро..</string>
+    <string name="dashboard_morning4">Хорошего дня..</string>
+    <string name="dashboard_morning5">Совершенно новый день..</string>
+    <string name="dashboard_noon1">Добрый день.</string>
+    <string name="dashboard_noon2">Наслаждайтесь закатом.</string>
+    <string name="dashboard_noon3">Добро пожаловать домой..</string>
+    <string name="dashboard_noon4">Наслаждайтесь этим днем!</string>
+    <string name="dashboard_noon5">С возвращением..</string>
+    <string name="dashboard_early_night1">Добрый вечер..</string>
+    <string name="dashboard_early_night2">Пора ужинать!</string>
+    <string name="dashboard_night3">Приятных снов!</string>
+    <string name="dashboard_night4">Пора спать..</string>
+    <string name="dashboard_night5">Спокойной ночи!</string>
+    <string name="dashboard_midnight1">Уже поздняя ночь..</string>
+    <string name="dashboard_midnight2">Вам нужна помощь..</string>
+    <string name="dashboard_midnight3">Поспите немного..</string>
+    <string name="dashboard_midnight4">Отдохните уже..</string>
+    <string name="dashboard_midnight5">Поздний сон вреден для вас..</string>
+    <string name="dashboard_random1">Хочешь риса?</string>
+    <string name="dashboard_random2">Панель поиска в пикселях ниже..</string>
+    <string name="dashboard_random3">Здравствуйте, владелец!</string>
+    <string name="dashboard_random4">Настройки</string>
+    <string name="dashboard_random5">Привет, пользователь!</string>
+    <string name="dashboard_random6">Что случилось?</string>
+    
+    <string name="build_status">Статус сборки</string>
+     <string name="build_status_summary_placeholder">Что случилось?</string>
+     <string name="build_is_official_title">Устройство официально поддерживается!</string>
+     <string name="build_is_community_title">Устройство официально не поддерживается!</string>
+     <string name="build_is_official_summary">Построен с любовью %s</string>
+     <string name="build_is_official_summary_oopsie">но кто сделал эту сборку?</string>
+     <string name="build_is_community_summary">Неофициальная сборка от %s</string>
+     <string name="build_is_community_summary_oopsie">Тсс! скажите сборщику, что он забыл добавить флаги сборки RICE!</string>
+
+    <!-- App lock -->
+    <string name="app_lock_title">Безопасность приложения</string>
+    <string name="apps_security_summary">Защитить/скрыть приложения</string>
+    <string name="app_lock_summary_singular">1 приложение защищено</string>
+    <string name="app_lock_summary_plural"><xliff:g example="2" id="Количество приложений">%1$d</xliff:g> приложения защищены</string>
+    <string name="app_lock_authentication_dialog_title">Разблокировать</string>
+    <string name="enable_debugging">Включить отладку</string>
+    <string name="disable_debugging">Отключить отладку</string>
+    <string name="app_lock_packages_title">Защищенные приложения</string>
+    <string name="app_lock_packages_summary">Выберите приложения для защиты с помощью биометрических данных или учетных данных устройства</string>
+    <string name="app_lock_timeout_title">Время ожидания автоматической блокировки</string>
+    <string name="app_lock_timeout_summary">Время, по истечении которого разблокированное фоновое приложение должно быть заблокировано</string>
+    <string name="app_lock_notifications_title">Свернуть уведомления</string>
+    <string name="app_lock_notifications_summary">
+           Содержимое уведомлений будет скрыто и свернуто для выбранных приложений, когда они заблокированы.
+           Уведомления Heads Up будут автоматически отключены.
+    </строка>
+    <string name="app_lock_notifications_disabled_summary">Сначала защитите приложение</string>
+    <string name="app_lock_biometrics_allowed_title">Включить биометрию для разблокировки</string>
+    <string name="app_lock_footer_text">Пузыри будут автоматически удаляться по истечении времени ожидания</string>
+
+    <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="wallpaper_zoom_effect_title">Эффект масштабирования обоев</string>
+    <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+    <string name="обзор эффекта масштабирования обоев">Увеличьте масштаб обоев, чтобы отобразить анимацию глубины уменьшения масштаба. Качество обоев может ухудшиться</string>
+
+    <!-- Screen setting option title for the item to take you to the stock security screen -->
+    <string name="aosp_security_settings_title">Стандартные параметры блокировки</string>
+    <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
+    <string name="aosp_security_settings_summary">Установить блокировку приложения, блокировку SIM-карты, блокировку хранилища учетных данных</string>
+</resources>
