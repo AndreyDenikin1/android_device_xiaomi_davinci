@@ -20,7 +20,13 @@
 
     <!-- Reset auto brightness adjustment -->
     <string name="reset_auto_brightness_adjustment_title">Сбросить настройки</string>
-     <string name="reset_auto_brightness_adjustment_summary">Позвольте системе забыть о ваших предпочтениях яркости и сбросить их до значений по умолчанию</string>
-     <string name="reset_auto_brightness_adjustment_done">Настройки автоматической яркости сброшены</string>
+    <string name="reset_auto_brightness_adjustment_summary">Позвольте системе забыть о ваших предпочтениях яркости и сбросить их до значений по умолчанию</string>
+    <string name="reset_auto_brightness_adjustment_done">Настройки автоматической яркости сброшены</string>
+    <!-- Laboratory - Strict standby -->
+    <string name="laboratory_strict_standby_policy_title">Строгая политика ожидания</string>
+    <string name="laboratory_strict_standby_policy_summary">При исключении из недавних приложений это заставит остановить приложения с ограниченным использованием батареи и наложить на них более строгие ограничения. Кроме того, все ограничения режима ожидания приложения будут применяться, даже когда устройство заряжается.</string>
 
+     <!-- Лаборатория - Принудительная фоновая заморозка -->
+    <string name="laboratory_force_background_freezer_title">Заморозка фоновых задач</string>
+    <string name="laboratory_force_background_freezer_summary">Замораживать задачи с ограниченным использованием батареи при перемещении их в фоновый режим и размораживать их при перемещении в активный режим. Это может немного сэкономить заряд батареи, но может привести к сбоям и фоновому ANR.</string>
 </resources>
