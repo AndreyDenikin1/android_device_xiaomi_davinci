@@ -1,19 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2016-2022 riceDroid Android Project
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
     <string name="rice_settings_title">Настройки riceDroid</string>
@@ -35,7 +20,6 @@
     <string name="dialog_color_picker">Цветовая палитра</string>
     <string name="press_color_to_apply">Нажмите на выбранный цвет для применения</string>
     <string name="hex">Код:</string>
-    <string name="hex_hint">#ff000000</string>
     <string name="set">Применить</string>
     <string name="color_default">По умолчанию</string>
     <!-- General strings -->
@@ -60,14 +44,14 @@
     <string name="about_rice">О riceDroid</string>
     <string name="about_device_name">Устройство</string>
     <!-- Share riceDroid -->
-    <string name="share_rice_title">Рассказать о riceDroid</string>
-    <string name="share_rice_summary">Пусть другие узнают о riceDroid</string>
-    <string name="share_message">Узнайте, доступен ли #riceDroidAndroid для вашего устройства на @ https://rice.net/</string>
-    <string name="share_chooser_title">Рассказать о riceDroid</string>
+    <string name="share_rice_title">Рассказать о RiceDroid</string>
+    <string name="share_rice_summary">Пусть другие узнают о RiceDroid</string>
+    <string name="share_message">Узнайте, доступен ли #RiceDroidAndroid для вашего устройства на @ https://rice.net/</string>
+    <string name="share_chooser_title">Рассказать о RiceDroid</string>
     <!-- Sites riceDroid -->
     <string name="rice_source_title">GitHub</string>
     <string name="rice_source_summary">Мы любим открытый исходный код, посмотрите его</string>
-    <string name="rice_telegram_title">Cообщество riceDroid</string>
+    <string name="rice_telegram_title">Cообщество RiceDroid</string>
     <string name="rice_telegram_summary">Мы в Telegram. Присоединяйтесь!</string>
     <string name="rice_telegram_channel_title">Канал обновлений</string>
     <string name="rice_telegram_channel_summary">Получать уведомления о новых сборках в Telegram</string>
@@ -91,13 +75,13 @@
     <string name="app_play_store">Google Play</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Значение: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">по умолчанию</string>
+    <string name="custom_seekbar_default_value">По-умолчанию</string>
     <string name="custom_seekbar_default_value_to_set">Значение по умолчанию: <xliff:g id="v">%s</xliff:g>\nУдерживайте для установки</string>
     <string name="custom_seekbar_default_value_is_set">Значение по умолчанию установлено</string>
     <!-- Units -->
-    <string name="unit_seconds">секунд</string>
-    <string name="unit_milliseconds">миллисекунд</string>
-    <string name="unit_pixels">пикс</string>
+    <string name="unit_seconds">Секунд</string>
+    <string name="unit_milliseconds">Миллисекунд</string>
+    <string name="unit_pixels">Пикс</string>
     <string name="unit_hz">Гц</string>
     <!-- Hardware info -->
     <string name="platform_revision">Платформа</string>
@@ -296,9 +280,9 @@
     <string name="smart_pulldown_summary">Открывать быстрые настроеки при наличии %1$s уведомлений</string>
     <string name="smart_pulldown_none_summary">Открыть быстрые настроек, если там нет уведомлений</string>
     <string name="smart_pulldown_off">Отключено</string>
-    <string name="smart_pulldown_none">нет уведомлений</string>
-    <string name="smart_pulldown_dismissable">нет удаляемых</string>
-    <string name="smart_pulldown_ongoing">нет текущих</string>
+    <string name="smart_pulldown_none">Нет уведомлений</string>
+    <string name="smart_pulldown_dismissable">Нет удаляемых</string>
+    <string name="smart_pulldown_ongoing">Нет текущих</string>
     <!-- Tap to sleep on status bar -->
     <string name="lockscreen_doubletap_sleep_title">Двойное нажатие для сна</string>
     <string name="lockscreen_doubletap_sleep_summary">Двойное нажатие по экрану блокировки переводит устройство в спящий режим</string>
@@ -672,7 +656,7 @@
     <!-- Custom Vibration fragment -->
     <string name="vibration_intensity_preferences">Интенсивность вибрации</string>
     <string name="summary_vibration_intensity_preferences">Изменить интенсивность вибрации</string>
-    <string name="keywords_vibration_preferences">шаблон вибрации, интенсивность вибрации, при звонке, отклик, нажатие, сила вибрации</string>
+    <string name="keywords_vibration_preferences">Шаблон вибрации, интенсивность вибрации, при звонке, отклик, нажатие, сила вибрации</string>
     <string name="ringtone_vibration_pattern">Тип вибрации при звонке</string>
     <string name="vibration_intensity_ringer">Интенсивность вибрации при звонке</string>
     <string name="vibration_intensity_notification">Интенсивность вибрации при уведомлении</string>
@@ -682,11 +666,6 @@
     <string name="vibration_intensity_medium">Средняя</string>
     <string name="vibration_intensity_strong">Сильная</string>
     <string name="vibration_intensity_custom">Пользовательская</string>
-    <string name="pattern_dzzz_dzzz">дззз-дззз</string>
-    <string name="pattern_dzzz_da">дззз-да</string>
-    <string name="pattern_mm_mm_mm">мм-мм-мм</string>
-    <string name="pattern_da_da_dzzz">да-да-дззз</string>
-    <string name="pattern_da_dzzz_da">да-дззз-да</string>
     <!-- Fingerprint authentication vibration -->
     <string name="fp_success_vibrate_title">Вибрация при авторизации отпечатком</string>
     <string name="fp_success_vibrate_summary">Вибрировать при успешной авторизации по отпечатку</string>
@@ -836,7 +815,6 @@
     <string name="game_dashboard_dnd_summary">Получать уведомления только от избранных контактов и приложений в играх</string>
     <string name="game_dashboard_dnd_title">Режим \"Не беспокоить\" в играх</string>
     <!-- reTicker -->
-    <string name="reticker_title">reTicker</string>
     <string name="reticker_summary">Замените всплывающие уведомления на переработанную, более тонкую и менее агрессивную версию</string>
     <string name="reticker_colored_title">Цвет фона от приложения</string>
     <string name="reticker_colored_summary">Цвет фона уведомления будет заменён основным цветом приложения</string>
