@@ -40,7 +40,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Maintainer Stuff
 RICE_MAINTAINER := AndreyDenikin1
-RICE_OFFICIAL := false
+AWAKEN_BUILD_TYPE := false
 
 # Fingerprint
 BUILD_FINGERPRINT := "google/raven/raven:12/SQ3A.220705.003/8671607:user/release-keys"
