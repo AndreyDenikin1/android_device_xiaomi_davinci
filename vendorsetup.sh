@@ -5,3 +5,4 @@ git clone -b rice --depth=1 https://github.com/AndreyDenikin1/android_device_xia
 git clone -b rice --depth=1 https://github.com/AndreyDenikin1/android_vendor_xiaomi_davinci.git vendor/xiaomi/davinci
 git clone -b rice --depth=1 https://github.com/AndreyDenikin1/android_vendor_xiaomi_sm6150-common.git vendor/xiaomi/sm6150-common
 git clone -b lineage-19.1 --depth=1 https://github.com/LineageOS/android_hardware_xiaomi.git hardware/xiaomi
+git clone -b lineage-19.1 --depth=1 https://github.com/LineageOS/android_hardware_lineage_livedisplay.git hardware/lineage/livedisplay
