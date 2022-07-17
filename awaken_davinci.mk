@@ -33,7 +33,7 @@ TARGET_ENABLE_BLUR := true
 
 # Google Mobile Services Support. (GAPPS)
 TARGET_GAPPS_ARCH := arm64
-WITH_GMS := true
+USE_GAPPS := true
 
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
