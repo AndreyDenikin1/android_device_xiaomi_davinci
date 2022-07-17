@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_clock_hours">
+        <item>Двенадцать</item>
+        <item>Час</item>
+        <item>Два</item>
+        <item>Три</item>
+        <item>Четыре</item>
+        <item>Пять</item>
+        <item>Шесть</item>
+        <item>Семь</item>
+        <item>Восемь</item>
+        <item>Девять</item>
+        <item>Десять</item>
+        <item>Одиннадцать</item>
+    </string-array>
+    <string-array name="type_clock_hours_12">
+        <item>Двенадцать</item>
+        <item>Час</item>
+        <item>Два</item>
+        <item>Три</item>
+        <item>Четыре</item>
+        <item>Пять</item>
+        <item>Шесть</item>
+        <item>Семь</item>
+        <item>Восемь</item>
+        <item>Девять</item>
+        <item>Десять</item>
+        <item>Одиннадцать</item>
+    </string-array>
+    <string-array name="type_clock_hours_24">
+        <item>Ноль</item>
+        <item>Один</item>
+        <item>Два</item>
+        <item>Три</item>
+        <item>Четыре</item>
+        <item>Пять</item>
+        <item>Шесть</item>
+        <item>Семь</item>
+        <item>Восемь</item>
+        <item>Девять</item>
+        <item>Десять</item>
+        <item>Одиннадцать</item>
+        <item>Двенадцать</item>
+        <item>Тринадцать</item>
+        <item>Четырнадцать</item>
+        <item>Пятнадцать</item>
+        <item>Шестнадцать</item>
+        <item>Семнадцать</item>
+        <item>Восемнадцать</item>
+        <item>Девятнадцать</item>
+        <item>Двадцать</item>
+        <item>Двадцать один</item>
+        <item>Двадцать два</item>
+        <item>Двадцать три</item>
+    </string-array>
+    <string-array name="type_clock_minutes">
+        <item>Ноль ноль</item>
+        <item>Ноль одна</item>
+        <item>Ноль две</item>
+        <item>Ноль три</item>
+        <item>Ноль четыре</item>
+        <item>Ноль пять</item>
+        <item>Ноль шесть</item>
+        <item>Ноль семь</item>
+        <item>Ноль восемь</item>
+        <item>Ноль девять</item>
+        <item>Десять</item>
+        <item>Одиннадцать</item>
+        <item>Двенадцать</item>
+        <item>Тринадцать</item>
+        <item>Четырнадцать</item>
+        <item>Пятнадцать</item>
+        <item>Шестнадцать</item>
+        <item>Семнадцать</item>
+        <item>Восемнадцать</item>
+        <item>Девятнадцать</item>
+        <item>Двадцать</item>
+        <item>Двадцать одна</item>
+        <item>Двадцать две</item>
+        <item>Двадцать три</item>
+        <item>Двадцать четыре</item>
+        <item>Двадцать пять</item>
+        <item>Двадцать шесть</item>
+        <item>Двадцать семь</item>
+        <item>Двадцать восемь</item>
+        <item>Двадцать девять</item>
+        <item>Тридцать</item>
+        <item>Тридцать одна</item>
+        <item>Тридцать две</item>
+        <item>Тридцать три</item>
+        <item>Тридцать четыре</item>
+        <item>Тридцать пять</item>
+        <item>Тридцать шесть</item>
+        <item>Тридцать семь</item>
+        <item>Тридцать восемь</item>
+        <item>Тридцать девять</item>
+        <item>Сорок</item>
+        <item>Сорок одна</item>
+        <item>Сорок две</item>
+        <item>Сорок три</item>
+        <item>Сорок четыре</item>
+        <item>Сорок пять</item>
+        <item>Сорок шесть</item>
+        <item>Сорок семь</item>
+        <item>Сорок восемь</item>
+        <item>Сорок девять</item>
+        <item>Пятьдесят</item>
+        <item>Пятьдесят одна</item>
+        <item>Пятьдесят две</item>
+        <item>Пятьдесят три</item>
+        <item>Пятьдесят четыре</item>
+        <item>Пятьдесят пять</item>
+        <item>Пятьдесят шесть</item>
+        <item>Пятьдесят семь</item>
+        <item>Пятьдесят восемь</item>
+        <item>Пятьдесят девять</item>
+    </string-array>
+</resources>
