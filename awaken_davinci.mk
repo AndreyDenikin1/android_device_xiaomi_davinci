@@ -39,7 +39,7 @@ USE_GAPPS := true
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Maintainer Stuff
-RICE_MAINTAINER := AndreyDenikin1
+AWAKEN_MAINTAINER := AndreyDenikin1
 AWAKEN_BUILD_TYPE := false
 
 # Fingerprint
