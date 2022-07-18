@@ -33,7 +33,20 @@ TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_davinci
 TARGET_RECOVERY_DEVICE_MODULES := libinit_davinci
 
 # Kernel
-TARGET_KERNEL_CONFIG := davinci_defconfig
+BOARD_BOOTIMG_HEADER_VERSION := 2
+BOARD_KERNEL_BASE := 0x00000000
+BOARD_KERNEL_CMDLINE := androidboot.hardware=qcom androidboot.console=ttyMSM0 service_locator.enable=1 swiotlb=1 earlycon=msm_geni_serial,0x880000 loop.max_part=7 cgroup.memory=nokmem,nosocket kpti=off
+#BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
+BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
+BOARD_KERNEL_PAGESIZE := 4096
+BOARD_INCLUDE_DTB_IN_BOOTIMG := true
+BOARD_MKBOOTIMG_ARGS := --header_version $(BOARD_BOOTIMG_HEADER_VERSION)
+#Generate DTBO image
+BOARD_KERNEL_SEPARATED_DTBO := true
+TARGET_KERNEL_ARCH := arm64
+TARGET_KERNEL_CLANG_COMPILE := true
+TARGET_KERNEL_CONFIG := vendor/sdmsteppe-perf_defconfig
+TARGET_KERNEL_SOURCE := kernel/xiaomi/davinci
 
 # Partitions
 BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
