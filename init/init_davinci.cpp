@@ -88,18 +88,15 @@ void vendor_load_properties() {
     if (region == "GLOBAL") {
         model = "Mi 9T";
         device = "davinci";
-        fingerprint = "Xiaomi/davinci/davinci:11/RKQ1.200826.002/V12.1.4.0.RFJMIXM:user/release-keys";
         description = "davinci-user 11 RKQ1.200826.002 V12.1.4.0.RFJMIXM release-keys";
         mod_device = "davinci_global";
     } else if (region == "CN") {
         model = "Redmi K20";
         device = "davinci";
-        fingerprint = "Xiaomi/davinci/davinci:11/RKQ1.200826.002/V12.5.2.0.RFJCNXM:user/release-keys";
         description = "davinci-user 11 RKQ1.200826.002 V12.5.2.0.RFJCNXM release-keys";
     } else if (region == "INDIA") {
         model = "Redmi K20";
         device = "davinciin";
-        fingerprint = "Xiaomi/davinciin/davinciin:11/RKQ1.200826.002/V12.1.4.0.RFJINXM:user/release-keys";
         description = "davinciin-user 11 RKQ1.200826.002 V12.1.4.0.RFJINXM release-keys";
         mod_device = "davinciin_in_global";
     }
@@ -108,7 +105,6 @@ void vendor_load_properties() {
     fingerprint = "Xiaomi/dipper/dipper:8.1.0/OPM1.171019.011/V9.5.5.0.OEAMIFA:user/release-keys";
     description = "dipper-user 8.1.0 OPM1.171019.011 V9.5.5.0.OEAMIFA release-keys";
 
-    set_ro_build_prop("fingerprint", fingerprint);
     set_ro_product_prop("device", device);
     set_ro_product_prop("model", model);
     property_override("ro.build.description", description.c_str());
