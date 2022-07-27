@@ -17,7 +17,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Build Lawnchair
 #$(call inherit-product-if-exists, vendor/lawnchair/lawnchair.mk)
 
-$(call inherit-product-if-exists, vendor/AOSPMod/AOSPMod.mk)
+$(call inherit-product-if-exists, vendor/xiaomi/AOSPMod/config.mk)
 
 $(call inherit-product-if-exists, vendor/xiaomi/RUTranslation/config.mk)
 
@@ -28,12 +28,13 @@ PRODUCT_MODEL := Mi 9T
 PRODUCT_MANUFACTURER := Xiaomi
 
 # riceDroid Stuff with GApps
-TARGET_BOOT_ANIMATION_RES := 1080
+SUSHI_BOOTANIMATION := 1080
 TARGET_SHIP_PREBUILT_APEX := true
 TARGET_INCLUDE_CARRIER_SETTINGS := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_ENABLE_BLUR := true
+TARGET_HAS_UDFPS := true
 
 # Google Mobile Services Support. (GAPPS)
 TARGET_GAPPS_ARCH := arm64
