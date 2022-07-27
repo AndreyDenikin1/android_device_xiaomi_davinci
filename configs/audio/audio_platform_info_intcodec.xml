@@ -347,5 +347,5 @@
   <app_types> 
     <app uc_type="PCM_PLAYBACK" mode="default" bit_width="24" id="69936" max_rate="384000" /> 
     <app uc_type="PCM_PLAYBACK" mode="default" bit_width="24" id="69940" max_rate="384000" /> 
-  <app_types> 
+  </app_types> 
 </audio_platform_info>
