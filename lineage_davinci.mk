@@ -19,6 +19,8 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 $(call inherit-product-if-exists, vendor/AOSPMod/AOSPMod.mk)
 
+$(call inherit-product-if-exists, vendor/xiaomi/RUTranslation/config.mk)
+
 PRODUCT_NAME := lineage_davinci
 PRODUCT_DEVICE := davinci
 PRODUCT_BRAND := Xiaomi
