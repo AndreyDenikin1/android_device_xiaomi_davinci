@@ -17,10 +17,6 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Build Lawnchair
 #$(call inherit-product-if-exists, vendor/lawnchair/lawnchair.mk)
 
-$(call inherit-product-if-exists, vendor/xiaomi/AOSPMod/config.mk)
-
-$(call inherit-product-if-exists, vendor/xiaomi/RUTranslation/config.mk)
-
 PRODUCT_NAME := lineage_davinci
 PRODUCT_DEVICE := davinci
 PRODUCT_BRAND := Xiaomi
