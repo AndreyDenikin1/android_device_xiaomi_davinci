@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="applock_summary">
+        <item quantity="other">%d приложений заблокировано</item>
+        <item quantity="one">1 приложение заблокировано</item>
+        <item quantity="few">%d приложения заблокировано</item>
+        <item quantity="many">%d приложений заблокировано</item>
+    </plurals>
+    <plurals name="wifi_hotspot_auto_off_timeout">
+        <item quantity="other">Отключить, если устройство не подключено в течение %1$d минут</item>
+        <item quantity="one">Отключить, если устройство не подключено в течение %1$d минуты.</item>
+        <item quantity="few">Отключить, если устройство не подключено в течение %1$d минут</item>
+        <item quantity="many">Отключить, если устройство не подключено в течение %1$d минут</item>
+    </plurals>
+    <plurals name="wifi_hotspot_client_limit_summary">
+        <item quantity="other">К этой точке доступа могут подключаться до %1$d устройств.</item>
+        <item quantity="one">К этой точке доступа может подключаться до %1$d устройств.</item>
+        <item quantity="few">К этой точке доступа может подключаться до %1$d устройств.</item>
+        <item quantity="many">К этой точке доступа может подключаться до %1$d устройств.</item>
+    </plurals>
+</resources>

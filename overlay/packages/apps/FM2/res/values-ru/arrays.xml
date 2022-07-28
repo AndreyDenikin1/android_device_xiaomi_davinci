@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_spacing_entries">
+        <item>50 кГц</item>
+        <item>100 кГц</item>
+        <item>200 kHz</item>
+    </string-array>
+    <string-array name="record_durations_entries">
+        <item>5 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>Пока не остановится</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Получить текущие параметры станции</item>
+        <item>Получить параметры станции Повторить 20 раз</item>
+        <item>Получить параметры поисковой станции</item>
+        <item>Получить параметры развертки диапазона FM</item>
+        <item>Настройка параметров производительности</item>
+    </string-array>
+    <string-array name="sleep_duration_values">
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Выберите вариант</item>
+        <item>Настройка параметров производительности</item>
+        <item>Статистика RF</item>
+    </string-array>
+    <string-array name="ster_entries">
+        <item>Стерео</item>
+    </string-array>
+    <string-array name="ster_mon_entries">
+        <item>Стерео</item>
+        <item>Моно</item>
+    </string-array>
+</resources>

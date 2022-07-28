@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_hours">
+        <item quantity="other">%d часов</item>
+        <item quantity="one">%d ч</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d мин</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d сек</item>
+    </plurals>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Скачивается %d файла</item>
+        <item quantity="one">Скачивается %d файл</item>
+        <item quantity="few">Скачивается %d файла</item>
+        <item quantity="many">Скачивается %d файлов</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">Ожидается скачивание %d файла…</item>
+        <item quantity="one">Ожидается скачивание %d файла…</item>
+        <item quantity="few">Ожидается скачивание %d файлов…</item>
+        <item quantity="many">Ожидается скачивание %d файлов…</item>
+    </plurals>
+</resources>

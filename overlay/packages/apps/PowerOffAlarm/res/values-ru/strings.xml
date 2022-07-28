@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Будильник при выключенном питании</string>
+    <string name="dismiss">отказать</string>
+    <string name="firing_message">Срабатал будильник!</string>
+    <string name="permdesc_power_off_alarm">установить и очистить будильник, который разбудит устройство из выключенного состояния</string>
+    <string name="permlab_power_off_alarm">Сигнал отключения питания</string>
+    <string name="power_on_off_text">Включение или выключение питания?</string>
+    <string name="poweron_no">Выключить</string>
+    <string name="poweron_yes">Включить</string>
+    <string name="snooze">вздремнуть</string>
+</resources>

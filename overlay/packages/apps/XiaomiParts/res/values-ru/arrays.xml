@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lcd_hbm_modes">
+        <item>Выкл.</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+    </string-array>
+    <string-array name="lcd_cabc_modes">
+        <item>Выкл.</item>
+        <item>Низкий (Интерфейс)</item>
+        <item>Средний (Видео)</item>
+        <item>Высокий (Изображения)</item>
+    </string-array>
+    <string-array name="doze_brightness_level">
+        <item>Низкая яркость</item>
+        <item>Высокая яркость</item>
+        <item>Нулевая яркость</item>
+        <item>Адаптивная яркость</item>
+    </string-array>
+    <string-array name="pick_up_modes">
+        <item>Выкл.</item>
+        <item>Импульсное уведомление</item>
+        <item>Поднятие для пробуждения</item>
+    </string-array>
+</resources>

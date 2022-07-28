@@ -1866,4 +1866,21 @@
     <string name="refresh_standard">Стандартная (60 Гц)</string>
     <string name="refresh_high">Высокая (90 Гц)</string>
     <string name="refresh_extreme">Экстремальная (120 Гц)</string>
+    <string name="ambient_display_ia_summary">Активация экрана при получении уведомлений</string>
+    <string name="off">Отключено</string>
+    <string name="on">Включено</string>
+    <string name="pick_up_gyro_summary">Лучшая точность, увеличивает энергопотребление</string>
+    <string name="pick_up_gyro_title">Используйте гироскоп для режима поднятия</string>
+    <string name="touch_control_summary">Настройка функций сенсорного экрана для каждого приложения</string>
+    <string name="dirac_preset_balanced">Сбалансированный</string>
+    <string name="dirac_preset_bass_reduction">Снижение басов</string>
+    <string name="dirac_preset_soft_bass">Мягкий бас</string>
+    <string name="dirac_preset_soft_treble">Мягкие высокие частоты</string>
+    <string name="dirac_preset_treble_reduction">Снижение высоких частот</string>
+    <string name="music_headset_scenario_intelligent">Умная</string>
+    <string name="music_headset_scenario_music">Музыка</string>
+    <string name="music_headset_scenario_select">Выбор сцены</string>
+    <string name="music_headset_scenario_video">Видео</string>
+    <string name="music_headset_scenario_vocal">Голос</string>
+    <string name="dirac_preset_live">Жизнь</string>
 </resources>

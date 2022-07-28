@@ -1831,7 +1831,7 @@
     <string name="notification_slider_for_ringer">Звонок</string>
     <string name="notification_slider_for_rotation">Вращение</string>
     <string name="notification_slider_ringer_normal">Обычный</string>
-    <string name="notification_slider_ringer_silent">Беззвучный</string>
+    <string name="notification_slider_ringer_silent">Без звука</string>
     <string name="notification_slider_ringer_vibrate">Вибрация</string>
     <string name="notification_slider_rotation_auto">Авто</string>
     <string name="notification_slider_rotation_landscape_270">Альбомный режим (270°)</string>
@@ -1859,4 +1859,11 @@
     <string name="vib_notif_strength_title">Сила вибрации уведомления</string>
     <string name="vib_strength_summary">Определить силу вибратора</string>
     <string name="wide_mode_title">Широкий цветовой режим</string>
+    <string name="refresh_summary">Настройка максимальной частоты обновления для каждого приложения</string>
+    <string name="refresh_default">По умолчанию</string>
+    <string name="refresh_low">Низкая (30 Гц)</string>
+    <string name="refresh_moderate">Умеренная (50 Гц)</string>
+    <string name="refresh_standard">Стандартная (60 Гц)</string>
+    <string name="refresh_high">Высокая (90 Гц)</string>
+    <string name="refresh_extreme">Экстремальная (120 Гц)</string>
 </resources>
