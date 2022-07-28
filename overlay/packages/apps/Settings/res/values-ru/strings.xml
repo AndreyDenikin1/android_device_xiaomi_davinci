@@ -14197,8 +14197,8 @@ Aggressive Standby - это функция, которая полностью о
     <string name="network_traffic_font_size">Размер шрифта сети</string>
     <string name="fp_wake_unlock_summary">Пробуждать устройство по сканеру отпечатка пальца</string>
     <string name="custom_timeout_summary_20mins">20 минут</string>
-    <string name="about_device_nearby">Имя устройства могут и будут видеть ближайшие устройства.</string>
-    <string name="about_device_version_type_gapps">с GApps</string>
+    
+    
     <string name="device_name">Имя устройства</string>
     <string name="dot_customizer_dashboard_summary">Персонализируйте свой опыт с помощью капли краски</string>
     <string name="dot_customizer_dashboard_title">Настройки</string>
@@ -14421,7 +14421,7 @@ Aggressive Standby - это функция, которая полностью о
     <string name="dynamic_system_bars_gradient_title">Градиент строки состояния</string>
     <string name="qs_brightness_customization_category">Настройка яркости</string>
     <string name="about_rice">О riceDroid</string>
-    <string name="about_us_info_category_title">О нас</string>
+    
     <string name="bug_report_drill">Процедура сообщения об ошибках</string>
     <string name="changelog_rice_error">Не удалось загрузить журнал изменений</string>
     <string name="changelog_rice_summary">Просмотр изменений в установленном ПЗУ</string>
