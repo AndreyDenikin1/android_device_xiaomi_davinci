@@ -14553,4 +14553,27 @@ Aggressive Standby - это функция, которая полностью о
     <string name="vivid_theme_title">Яркие оттенки Моне</string>
     <string name="what_is_rice">Что такое riceDroid?</string>
     <string name="what_is_rice_summary">Ricedroid - это операционная система, основанная на lineage/crDroid, цель которой - обеспечить необходимую прошивку для Android, оставаясь при этом быстрой и стабильной.</string>
+    <string name="laboratory_force_background_freezer_summary">Замораживайте задачи с ограниченным использованием батареи при перемещении их на задний план и размораживайте их при перемещении на передний план. Это может немного сэкономить заряд батареи, но может привести к сбоям и фоновому ANR.</string>
+    <string name="laboratory_force_background_freezer_title">Заморозка фоновых задач</string>
+    <string name="laboratory_strict_standby_policy_summary">При удалении из недавних это заставит остановить приложения с ограниченным использованием батареи и наложить на них более строгие ограничения. Кроме того, все ограничения в режиме ожидания приложения будут наложены, даже когда устройство заряжается.</string>
+    <string name="laboratory_strict_standby_policy_title">Строгая политика в режиме ожидания</string>
+    <string name="qs_tile_animation_style_flipx">Переворот X</string>
+    <string name="qs_tile_animation_style_flipy">Переворот Y</string>
+    <string name="reset_auto_brightness_adjustment_done">Настройки автоматической яркости были сброшены</string>
+    <string name="reset_auto_brightness_adjustment_summary">Пусть система забудет ваши предпочтения яркости и сбросит их до значений по умолчанию.</string>
+    <string name="reset_auto_brightness_adjustment_title">Сбросить настройки</string>
+    <string name="wallpaper_zoom_effect_summary">Увеличьте обои, чтобы показать анимацию глубины уменьшения масштаба. Обои могут пострадать от снижения качества</string>
+    <string name="wallpaper_zoom_effect_title">Эффект масштабирования обоев</string>
+    <string name="sound_settings_title">Звук</string>
+    <string name="lockscreen_clock_color_title">Цвет часов на экране блокировки</string>
+    <string name="lockscreen_clock_color_summary">Использовать вторичный цвет для часов экрана блокировки, если отключено, будет использоваться цветовой акцент</string>
+    <string name="notification_mode_title">Режим уведомлений</string>
+    <string name="notification_mode_hide">Не показывать</string>
+    <string name="notification_mode_headsup">Показывать как "уведомления"</string>
+    <string name="notification_mode_reticker">Показать как reTicker</string>
+    <string name="notification_mode_danmaku">Показать как данмаку</string>
+    <string name="ringer_mode_no_change">Не изменять</string>
+    <string name="high_power_apps_summary" translatable="false">Оптимизация батареи для каждого приложения</string>
+    <string name="battery_24_hrs_stats_title" translatable="false">Использование батареи за 24 часа</string>
+    <string name="battery_24_hrs_stats_summary" translatable="false">Просмотр использования за последние 24 часа</string>
 </resources>

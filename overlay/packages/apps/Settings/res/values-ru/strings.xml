@@ -14565,16 +14565,15 @@ Aggressive Standby - это функция, которая полностью о
     <string name="wallpaper_zoom_effect_summary">Увеличьте обои, чтобы показать анимацию глубины уменьшения масштаба. Обои могут пострадать от снижения качества</string>
     <string name="wallpaper_zoom_effect_title">Эффект масштабирования обоев</string>
     <string name="sound_settings_title">Звук</string>
-    <string name="lockscreen_clock_color_title">Lockscreen clock color</string>
-    <string name="lockscreen_clock_color_summary">Use secondary color for lockscreen clock, if disabled will use color accent</string>
-    <string name="notification_mode_title">Notification mode</string>
-    <string name="notification_mode_hide">Do not show</string>
-    <string name="notification_mode_headsup">Show as Heads Up</string>
-    <string name="notification_mode_reticker">Show as reTicker</string>
-    <string name="notification_mode_danmaku">Show as Danmaku</string>
-    <string name="ringer_mode_no_change">Do not change</string>
-    <string name="high_power_apps_summary" translatable="false">Per-app battery optimization</string>
-    <string name="battery_24_hrs_stats_title" translatable="false">24-hour battery usage</string>
-    <string name="battery_24_hrs_stats_summary" translatable="false">View usage for past 24 hours</string>
-    
+    <string name="lockscreen_clock_color_title">Цвет часов на экране блокировки</string>
+    <string name="lockscreen_clock_color_summary">Использовать вторичный цвет для часов экрана блокировки, если отключено, будет использоваться цветовой акцент</string>
+    <string name="notification_mode_title">Режим уведомлений</string>
+    <string name="notification_mode_hide">Не показывать</string>
+    <string name="notification_mode_headsup">Показывать как "уведомления"</string>
+    <string name="notification_mode_reticker">Показать как reTicker</string>
+    <string name="notification_mode_danmaku">Показать как данмаку</string>
+    <string name="ringer_mode_no_change">Не изменять</string>
+    <string name="high_power_apps_summary" translatable="false">Оптимизация батареи для каждого приложения</string>
+    <string name="battery_24_hrs_stats_title" translatable="false">Использование батареи за 24 часа</string>
+    <string name="battery_24_hrs_stats_summary" translatable="false">Просмотр использования за последние 24 часа</string>
 </resources>
